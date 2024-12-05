@@ -1,5 +1,4 @@
-# 원 중심점 찾기   
-(Find the center point of the circle with RANSAC)
+# 원 중심점 찾기 (Find the center point of the circle with RANSAC)
 
 * #### 💡 개요
   * 이미지 크기(px)와 반지름(px)만을 알고있을 때  
