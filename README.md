@@ -43,7 +43,7 @@
 * #### 알고리즘 설명
   <img src="https://github.com/user-attachments/assets/07860e87-0ed5-405e-9da9-b43f30091d28" alt="블록도" height="180" width="580">   
   
-  * LOAD 된 이미지에서 검은색이 더 많은지 반별하여 THRESH_BINARY 또는 THRESH_BINARY_INV 적용하여 이진화
+  * 이미지에서 검은색이 더 많은지 반별하여 THRESH_BINARY 또는 THRESH_BINARY_INV 적용하여 이진화  
   * 입력된 반지름으로 각 반지름 계산 후 외부 원부터 내부 원 순으로 각각의 포인트를 찾음
   * 각각의 포인트들에서 이상치 제거를 위해 포인트들 간 RANSAC 후 최종 결과 포인트 계산
 
