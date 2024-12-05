@@ -9,6 +9,9 @@
   * Language : C++ 11 ~
   * Opencv version : 4.6.0 ~
 
+* #### Release
+* [Release](https://github.com/arson5012/CircleCenterPoint/releases/tag/Release_v1.0a)
+ 
 * #### Ui (User interface) 설명
   ![image](https://github.com/user-attachments/assets/ee12a025-c515-4e91-9c97-9825b74836f2)
 
